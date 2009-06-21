@@ -1,4 +1,4 @@
-#!//usr/local/bin/ruby
+#!/usr/local/bin/ruby
 
 require_relative 'filosofo'
 require_relative 'mesa'
